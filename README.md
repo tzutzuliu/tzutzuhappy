@@ -1,5 +1,11 @@
 # 任務要求
 
+# 有點難玩
+# 呵呵
+
+
+
+
 * 在index.php中進行註解或其他編輯，然後commit
 * 重新push本專案到自己的github classroom空間中
 * 在自己的github帳號下建立一個新的專案

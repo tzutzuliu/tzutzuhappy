@@ -7,6 +7,8 @@
     <title>基礎九九乘法表</title>
 </head>
 <body>
+    <h1>哈哈哈啦啦啦</h1>
+    <h2>有點難玩</h2>
 <?php 
 for($j=1;$j<=9;$j++){
     echo '<tr>';
